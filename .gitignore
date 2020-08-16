@@ -1,4 +1,6 @@
 .envrc
+.elasticbeanstalk/
+
 ### https://raw.github.com/github/gitignore/d34e91530084f6b11b4b90621f9a4f2a895f3f3c/Node.gitignore
 
 # Logs
