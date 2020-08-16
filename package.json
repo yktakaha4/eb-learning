@@ -1,0 +1,23 @@
+{
+  "name": "eb-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yktakaha4/eb-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yktakaha4/eb-learning/issues"
+  },
+  "homepage": "https://github.com/yktakaha4/eb-learning#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
